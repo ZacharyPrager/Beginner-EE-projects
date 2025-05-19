@@ -1,1 +1,10 @@
+#Materials Used:
+
+  1. Green LED
+  2. 330 ohm resistor
+  3. 3 male to male wires
+  4. 9V battery
+  5. Ardunio Uno
+  6. Small Breadboard
+
 
